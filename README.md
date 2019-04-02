@@ -1,1 +1,1 @@
-# opgl-learn
+# OpenGL练习，画点，直线，三角形
